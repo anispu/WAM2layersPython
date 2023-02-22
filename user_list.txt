@@ -22,4 +22,5 @@ Name			- affiliation						- version in use (base, many users have adapted parts 
 13. Umbriël Post	- Delft University of Technology			- WAM-2layers v2.4.08
 14. Gaby Gründemann	- Delft University of Technology			- WAM-2layers v2.4.08
 15. Imme Benedict	- Wageningen University					- WAM-2layers v2.4.08
+16. Anis Purwaningsih - Wageningen University					- WAM-2layers v2.4.08
 
